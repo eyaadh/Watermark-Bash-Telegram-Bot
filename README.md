@@ -10,6 +10,10 @@ _Once when you are sure that you have all the requirements mentioned above insta
 wget http://bot.eyaadh.net/wmakre.tar.gz
 tar -xvf wmakre.tar.gz
 ```
+_If you are cloning the git repository: _
+```
+git clone https://github.com/eyaadh/Watermark-Bash-Telegram-Bot.git
+```
 _Now browse into the directory at which you extracted the compressed file we just downloaded and ammend/add your bot token on .tgconfig file, set the correct permission and run the core script:_
 ```
 cd wmaker/
