@@ -18,7 +18,7 @@ git clone https://github.com/eyaadh/Watermark-Bash-Telegram-Bot.git
 ```
 _Now browse into the directory at which you extracted the compressed file we just downloaded, ammend/add your bot token on .tgconfig file, set the correct permission and run the core.bash script:_
 ```
-cd wmaker/    #if you cloned git hub repository cd Watermark-Bash-Telegram-Bot/
+cd wmaker/    #if you cloned github repository cd Watermark-Bash-Telegram-Bot/
 jq '(.config)|=(.token="your bot token")' .tgconfig > tgconfig.new
 mv tgconfig.new .tgconfig
 chmod 755 core.bash
