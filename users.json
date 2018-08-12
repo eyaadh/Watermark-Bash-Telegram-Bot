@@ -1,0 +1,18 @@
+{
+  "users":[
+    {
+      "user_id":"dummy",
+      "mode":"dummy",
+      "text":{
+          "font_size":"dummy",
+          "color":"dummy",
+          "position":"dummy"
+        },
+      "picture":{
+          "file": "dummy",
+          "opacity":"dummy",
+          "position":"dummy"
+        }
+    }
+  ]
+}

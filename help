@@ -1,0 +1,18 @@
+I can assist you with attaching a watermark either in the form of text or a picture logo. When you started using the bot for the very first time I assisted you to do the initial setup. In case you would like to change these settings at any point of time you could use the bellow given options:
+
+*General Options:*
+/editsettings - This option will basically assist you to reset/redo all the settings.
+/editmode - Use this option to update the active mode for watermark.
+/viewsettings - You can use this option to view the existing settings.
+/getsource - This is a magical option, check it on your own and be happy.
+
+*Text Watermark Options:*
+/edittext - With this option you could replace the previous given watermark text to a new one.
+/edittextsize - You can use this option to ammend the font size of the text watermark.
+/edittextcolor - This option will assist you change the font color of the text watermark.
+/edittextposition - To update the placement of the text watermark, use this option.
+
+*Picture Logo Watermark Options:*
+/editopacity - This option is used to set the opacity of the logo, 20 is the maximum transparancy and 100 is the lowest.
+/editpicposition - Use this option to update the placement of the Picture Logo watermark.
+/editpicture - With this option set a new picutre logo for the Picture watermark.
