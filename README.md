@@ -16,7 +16,7 @@ _If you are cloning the git repository, instead of downloading from the above gi
 ```
 git clone https://github.com/eyaadh/Watermark-Bash-Telegram-Bot.git
 ```
-_Now browse into the directory at which you extracted the compressed file we just downloaded and ammend/add your bot token on .tgconfig file, set the correct permission and run the core script:_
+_Now browse into the directory at which you extracted the compressed file we just downloaded and ammend/add your bot token on .tgconfig file, set the correct permission and run the core.bash script:_
 ```
 cd wmaker/
 jq '(.config)|=(.token="your bot token")' .tgconfig > tgconfig.new
