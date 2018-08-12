@@ -1,0 +1,6 @@
+{
+  "config": {
+    "token": "your bot token",
+    "api_url": "https://api.telegram.org/bot"
+  }
+}
