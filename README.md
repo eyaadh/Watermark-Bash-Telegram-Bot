@@ -1,4 +1,4 @@
-*Source and a Final Note:*
+**Source and A Final Note:**
 
 _This is an opensource development built based on bash. Follow the bellow instructions to clone this project._
 *Tools used by the bot:*
