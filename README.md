@@ -24,7 +24,7 @@ mv tgconfig.new .tgconfig
 chmod 755 core.bash
 ./core.bash
 ```
-_I do not have much time to ammend as per any requirements you might put forward, however I will try. Atleast it's free and it does not try to squeez money out of your pocket for a simple process unlike many other bots do. Since the source has already been shared I would suggest that you clone it and ammend it as you desire. However kindly do also have a look at my most favorite porject and always my number one priority_ [@roanuedhuru\_bot](https://t.me/roanuedhuru_bot). _I am most of the time available at_ [@botlistchat](https://t.me/botlistchat) _incase you would like to throw up some sarcastic comments or feedback._
+_I do not have much time to ammend as per any requirements you might put forward, however I will try. Atleast it's free and it does not try to squeez money out of your pocket for a simple process unlike many other bots do. Since the source has already been shared I would suggest that you clone it and ammend it as you desire. However kindly do also have a look at my most favorite porject and always my number one priority_ [@roanuedhuru_bot](https://t.me/roanuedhuru_bot). _I am most of the time available at_ [@botlistchat](https://t.me/botlistchat) _incase you would like to throw up some sarcastic comments or feedback._
 
 ```
 DO NOT BLOODY GIVE TO GET! GIVE TO INSPIRE OTHERS TO GIVE!
