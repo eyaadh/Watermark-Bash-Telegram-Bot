@@ -12,13 +12,13 @@ _Once when you are sure that you have all the required tools mentioned above ins
 wget http://bot.eyaadh.net/wmakre.tar.gz
 tar -xvf wmakre.tar.gz
 ```
-_If you are cloning the git repository, instead of downloading from the above given link:_
+_If you are cloning the github repository, instead of downloading from the above given link:_
 ```
 git clone https://github.com/eyaadh/Watermark-Bash-Telegram-Bot.git
 ```
 _Now browse into the directory at which you extracted the compressed file we just downloaded, ammend/add your bot token on .tgconfig file, set the correct permission and run the core.bash script:_
 ```
-cd wmaker/
+cd wmaker/    #if you cloned git hub repository cd Watermark-Bash-Telegram-Bot/
 jq '(.config)|=(.token="your bot token")' .tgconfig > tgconfig.new
 mv tgconfig.new .tgconfig
 chmod 755 core.bash
