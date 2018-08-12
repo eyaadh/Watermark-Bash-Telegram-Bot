@@ -7,7 +7,7 @@ _This is an opensource development built based on bash. Follow bellow instructio
 2. [curl](https://launchpad.net/ubuntu/xenial/+package/curl)
 3. [ImageMagick](https://www.imagemagick.org/script/index.php)
 
-_Once when you are sure that you have all the requirements mentioned above installed on your system, download the latest source and extract it:_
+_Once when you are sure that you have all the required tools mentioned above installed on your system, download the latest source and extract it:_
 ```
 wget http://bot.eyaadh.net/wmakre.tar.gz
 tar -xvf wmakre.tar.gz
@@ -16,7 +16,7 @@ _If you are cloning the git repository, instead of downloading from the above gi
 ```
 git clone https://github.com/eyaadh/Watermark-Bash-Telegram-Bot.git
 ```
-_Now browse into the directory at which you extracted the compressed file we just downloaded and ammend/add your bot token on .tgconfig file, set the correct permission and run the core.bash script:_
+_Now browse into the directory at which you extracted the compressed file we just downloaded, ammend/add your bot token on .tgconfig file, set the correct permission and run the core.bash script:_
 ```
 cd wmaker/
 jq '(.config)|=(.token="your bot token")' .tgconfig > tgconfig.new
