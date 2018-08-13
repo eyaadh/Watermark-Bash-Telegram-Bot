@@ -1,6 +1,6 @@
 **Source and A Final Note:**
 
-_This is an opensource development built based on bash. Follow bellow instructions to clone this project._
+_This is an open source development built based on bash. Follow bellow instructions to clone this project._
 
 *Tools used by the bot:*
 1. [jq](https://stedolan.github.io/jq/)
